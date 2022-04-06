@@ -1,2 +1,2 @@
 # Java-Car-Park-Solution
-bla bla
+A car park management Solution buid using JAVA
